@@ -2,7 +2,7 @@ Practice from the course on Udemy
 
 1. Email subscription
 
-![image](https://github.com/user-attachments/assets/6944b8e2-2c28-4a76-bdc2-7a53d974dbb2)
+![image](https://github.com/user-attachments/assets/6944b8e2-2c28-4a76-bdc2-7a53d974dbb2 | width=100)
 
 ![image](https://github.com/user-attachments/assets/7f7ea6d9-a022-4ce6-a573-7d07d29a48f0)
 
